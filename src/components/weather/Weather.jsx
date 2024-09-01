@@ -43,7 +43,7 @@ function Weather() {
         htmlFor="cityName"
         className="block text-lg font-bold text-gray-700 mb-2"
       >
-        Enter City Name:
+        City Name:
       </label>
       <input
         id="cityName"
